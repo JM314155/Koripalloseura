@@ -1,5 +1,5 @@
 ### Koripalloseura
-#### Sovelluksessa käyttäjät pystyvät etsimään peliseuraa sulkapalloon. Ilmoituksessa lukee missä ja milloin pelivuoro on sekä tarvittava pelaajien määrä.
+#### Sovelluksessa käyttäjät pystyvät etsimään peliseuraa koripalloon. Ilmoituksessa lukee missä ja milloin pelivuoro on sekä tarvittava pelaajien määrä.
 #### Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
 #### Käyttäjä pystyy lisäämään ilmoituksia ja muokkaamaan ja poistamaan niitä.
 #### Käyttäjä näkee sovellukseen lisätyt ilmoitukset.
